@@ -1,0 +1,12 @@
+{
+  "name": "Carlos Souza",
+  "address": "Av. Atlântica, 1000",
+  "city": "Rio de Janeiro",
+  "state": "RJ",
+  "zipCode": "22021-000",
+  "cardType": "American Express",
+  "creditCardNumber": "5105105105105100",
+  "creditCardMonth": "10",
+  "creditCardYear": "2026",
+  "nameOnCard": "Carlos Souza"
+}
